@@ -1,0 +1,690 @@
+body {
+  color: #40514E;
+  margin: 0;
+
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+/* Hello, I am Hyapathia text on top of pages */
+
+
+.Hello{
+    color: red;
+    font-size: 58pt;
+}
+
+.pro{
+  text-decoration: underline;
+
+  color: green;
+
+}
+
+.video {
+
+	color:white;
+	text-align: center;
+}
+
+.video2 {
+
+	color:black;
+	text-align: center;
+}
+
+
+
+.Hello2{
+    color: #FFFF00;
+    font-size: 58pt;
+}
+
+.pro2{
+  text-decoration: underline;
+
+  color: white;
+
+}
+
+.pro3{
+  text-decoration: underline;
+	font-size: 34px;
+  font-family: 'Merriweather', serif;
+
+  color: yellow;
+
+
+}
+
+/* Buttons */
+
+.btn2 {
+   background: #F63D3D;
+   background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+   background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+   background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+   background-image: -o-linear-gradient(top, #F63D3D, #811616);
+   background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 10px;
+   line-height: 10px;
+   color: yellow;
+   font-family: Road Rage;
+   width: 249px;
+   font-size: 60px;
+   font-weight: 900;
+   padding: 28px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 20px;
+
+}
+
+
+/* Navigation Bar */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* TOP CONTAINER AREA */
+
+
+.top-container {
+  position: relative;
+  margin: 10px;
+}
+
+.top-container2 {
+  background-color: cadetblue;
+  position: relative;
+  padding-top: 100px;
+  margin: 10px;
+}
+
+.top-cloud {
+  size: 300px;
+  right: 300px;
+  top: 40px;
+}
+
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.mountain {
+  width: 100%;
+}
+
+
+.headertruelove {
+
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 25px;
+  padding-bottom: 45px;
+}
+
+.picture {
+
+  padding-top: 60px;
+  height: 100%;
+  width: 100%;
+  position: static;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.textCOLORADO{
+  color:red;
+  padding: 350px;
+  font-family: Sacramento;
+  font-size:300px;
+}
+
+
+
+
+
+h1{
+font-size: 150px;
+margin: 50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+color: #66BFBF;
+}
+
+
+
+h2{
+font-size: 50px;
+font-family: 'Montserrat', sans-serif;
+color: black;
+font-weight: bold;
+padding-bottom: 10px;
+}
+
+
+
+p{
+
+  line-height: 1.5;
+}
+
+
+/* MIDDLE CONTAINER AREA */
+
+.middle-container {
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 75px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+.ahyoka{
+
+  font-family:Sacramento;
+  color:red;
+  font-size: 345px;
+}
+
+
+
+.BillyD-img {
+width: 100%;
+
+}
+
+/* LET'S CLIMB THIS MOUNTAIN TOGETHER AREA */
+
+
+.climb {
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.climb2 {
+font-size: 40px;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+color: yellow;
+
+}
+
+.climb3 {
+font-size: 35px;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+color: red;
+
+}
+
+.climb4 {
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    color: rgba(6,228,241,1.00);
+}
+
+
+.climb5 {
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: red;
+}
+
+
+
+.intro {
+    font-size: 20px;
+    text-align: left;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.intro2 {
+    font-size: 20px;
+    text-align: left;
+    padding-left: 40px;
+    padding-right: 40px;
+	color: black;
+}
+
+.intro4 {
+    font-size: 20px;
+    text-align: left;
+    padding-left: 40px;
+    padding-right: 40px;
+	color: white;
+}
+
+.thanksgofund {
+    font-size: 63pt;
+}
+
+
+.my-favorite-teams-header{
+  background-color: black;
+  position: relative;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+
+.Headerteams {
+  font-size: 100px;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #FFF;
+
+
+}
+
+
+
+.favorite-steelers{
+
+    background-color: #000000;
+    color:white;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 75px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.favorite-steelers2{
+
+    background-color: yellow;
+    color:white;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 75px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.favorite-steelers3{
+
+    background-color: yellow;
+    color:red;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 75px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+
+h5 {
+font-size: 100px;
+font-family: 'Allerta Stencil', sans-serif;
+color: black;
+
+}
+
+
+
+.text-discription {
+  font-size: 50px;
+}
+
+
+
+.terryb-img {
+  position: relative;
+  padding-top: 100px;
+  width:100%;
+
+}
+
+
+
+.favorite-yanks{
+
+    background-color: grey;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 75px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+h6 {
+font-size: 100px;
+font-family: 'Allerta Stencil', sans-serif;
+color: white;
+
+}
+
+
+
+
+.text-discription2 {
+  font-size: 50px;
+  color: white;
+}
+
+
+
+
+.yankeeslogos-img {
+
+  width: 50%;
+  margin: 100px;
+
+}
+
+
+
+
+
+hr {
+
+  border: dotted black 6px;
+  border-bottom: none;
+  width: 24%;
+  margin: 100px auto;
+
+}
+
+
+
+
+h3 {
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    padding-right: 38px;
+    padding-left: 38px;
+}
+
+
+
+.contact-message {
+  font-size: 45px;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 75px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+/* CONTACT ME BUTTON AREA */
+
+
+.btn {
+   background: #F63D3D;
+   background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+   background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+   background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+   background-image: -o-linear-gradient(top, #F63D3D, #811616);
+   background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 13px;
+   line-height: 10px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 249px;
+   font-size: 40px;
+   font-weight: 900;
+   padding: 18px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 20px;
+
+}
+
+.btn:hover {
+   border: solid #ED3333 1px;
+   background: #811616;
+   background-image: -webkit-linear-gradient(top, #811616, #F63D3D);
+   background-image: -moz-linear-gradient(top, #811616, #F63D3D);
+   background-image: -ms-linear-gradient(top, #811616, #F63D3D);
+   background-image: -o-linear-gradient(top, #811616, #F63D3D);
+   background-image: -webkit-gradient(to bottom, #811616, #F63D3D);
+   -webkit-border-radius: 50px;
+   -moz-border-radius: 50px;
+   border-radius: 50px;
+   text-decoration: none;
+}
+
+
+/* BOTTOM CONTAINER AREA */
+
+
+.bottom-container {
+  background-color: red;
+  padding: 50px 0 20px;
+  margin: 10px;
+
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+.btn3 {
+   background: #F63D3D;
+   background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+   background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+   background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+   background-image: -o-linear-gradient(top, #F63D3D, #811616);
+   background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 15px;
+   line-height: 10px;
+   color: yellow;
+   font-family: Road Rage;
+   width: 75%;
+   font-size: 45px;
+   font-weight: 900;
+   padding: 28px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 20px;
+
+}
+
+
+
+
+
+
+.nav-wrapper{
+
+  display: flex;
+  justify-content: space-between;
+  padding: 38px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.left-side{
+
+  display: flex;
+}
+
+.nav-wrapper > .left-side > div {
+margin-right: 20px;
+font-size: 0.9em;
+
+}
+
+.nav-link-wrapper {
+
+height: 22px;
+border-bottom: 1px solid transparent;
+transition: border-bottom 0.5s;
+
+
+}
+
+.nav-link-wrapper a {
+
+    color:#8a8a8a;
+    text-decoration: none;
+    transition: color 0.5s;
+
+}
+
+.nav-link-wrapper:hover {
+
+    border-bottom: 1px solid black;
+}
+
+
+.nav-link-wrapper a:hover {
+
+color: black;
+
+}
+
+.holderHerbal{
+
+  font-size: 35px;
+  padding-top: 75px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: Montserrat;
+}
+
+
+.footer-website {
+
+color: yellow;
+font-size: 50px;
+
+}
+
+
+.footer-website2 {
+
+color: red;
+font-size: 50px;
+
+}
+
+.copyrite {
+
+  color:yellow;
+  font-size: 52px;
+  padding: 20px 0;
+}
+
+a:hover {
+  color:white;
+
+}
+
+
+.footer5{
+
+    padding-left: 30px;
+    padding-right: 30px;
+    color:white;
+}
+.greatmeet {
+    font-size: 29pt;
+}
+.test {
+    background-color: rgba(240,7,11,1.00);
+    padding-top: 8px;
+    padding-right: 20px;
+    padding-left: 19px;
+    padding-bottom: 19px;
+}
+
+.copyrighttree{
+
+	text-align: center;
+	color: aquamarine;
+}
+
+
+/*mobile view*/
+
+@media (max-width: 375px){
+}
+.navbilly {
+}
+
+/*desktop view*/
+
+
+@media (min-width: 376px) and (max-width: 1200px){
+
+	.hello {
+
+	font-size: 125px;
+
+
+
+	}
+
+	@media (max-width: 376px){
+
+	.climb3 {
+
+	font-size: 65px;
+
+
+
+	}
+
+
+}
+.producttitle {
+}
